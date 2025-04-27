@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-groq
+pypdf
+sentence-transformers
+huggingface_hub
+transformers
+torch
+ollama
+pytesseract
+opencv-python-headless
+pdf2image
+langchain_huggingface
+langchain_ollama
+fpdf2
+faiss-cpu
